@@ -1,0 +1,18 @@
+﻿ENTER STRING
+PYTHON IS FUN
+STRING TO BE SALT IS ===============>
+ PYTHON IS FUN5gz
+
+SALTED STRING HASHING IS===============>
+ 786968ad6643134caab867eb6c2598bc
+
+ENTER NO. OF ITERATION YOU WANT 78
+ITERATED STRING HASHING IS =========>
+
+3526e7430d11c993f86663f61cbcab47
+
+
+
+**************PROGRAM IS COMPLETE***************
+
+[Program finished]

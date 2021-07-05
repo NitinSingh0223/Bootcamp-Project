@@ -1,0 +1,14 @@
+﻿ENTER STRING TO GENERATE MD5 ============>
+PYTHON IS FUN
+
+
+Byte equivalent of hash is : b'\x1au\xa8\xe4\xa9!M\xab\xc2\x87\xb3\xca*\x10\xab\xda'
+
+
+The hexadecimal equivalent of hash is : 1a75a8e4a9214dabc287b3ca2a10abda
+
+
+************PROGRAM IS COMPLETE************
+
+
+[Program finished]
